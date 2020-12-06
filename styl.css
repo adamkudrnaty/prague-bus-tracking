@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+html, body, #mapid {
+  height: 100%;
+  width: auto;
+}
+
+#mapid {
+  margin: 5%;
+  height: 80%;
+}
+
+#header {
+  margin-top: 0%;
+  padding: 1%;
+}
+
+#footer {
+  background-color: whitesmoke;
+}
+
+
+h1 { color: black; 
+  font-family: 'Raleway',sans-serif; 
+  font-size: 62px; 
+  font-weight: 800; 
+  line-height: 72px; 
+  margin: 0%;
+  text-align: left; 
+  text-transform: uppercase; }
+
+
+h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
+
+
+p { color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
+
+
+a { color: #c8c8c8; text-decoration: underline; }
+
+
+a:hover { color: #1c1c1c; text-decoration: underline; }
