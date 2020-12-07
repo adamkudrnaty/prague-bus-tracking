@@ -50,9 +50,6 @@ function mapa() {
 
         var busy = [];
 
-        console.log(lat[0]);
-        console.log(lon[0]);
-
         for (var i = 0; i < pocet_busu; i++) {
             console.log("PRIDAL JSEM BUS");
             busy[i] = L.marker([lat[i], lon[i]], {
